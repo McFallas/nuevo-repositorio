@@ -1,2 +1,7 @@
-# nuevo-repositorio
-Nuevo repositorio
+# Nuevo repositorio
+
+Este es un repositorio de ejemplo para mostrar la sintaxis Markdown.
+
+**Texto en negrita**
+
+[UCR](https://ucr.ac.cr)
